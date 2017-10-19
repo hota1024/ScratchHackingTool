@@ -1,0 +1,4 @@
+# ScratchHackingTool
+ScratchHackingTool
+
+ScratchのハッキングブロックをGUIで作れるツールです。
